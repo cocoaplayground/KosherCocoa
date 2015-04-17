@@ -18,3 +18,5 @@ DerivedData
 .idea/
 ./java
 ./java/*
+
+*.swp
