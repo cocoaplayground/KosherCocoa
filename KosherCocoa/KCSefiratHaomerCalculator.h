@@ -71,4 +71,7 @@
 
 + (NSInteger)dayOfSefiraForDate:(NSDate *)date;
 
++ (NSString *)countLabelProviderForCount:(NSInteger)count;
+
+
 @end
